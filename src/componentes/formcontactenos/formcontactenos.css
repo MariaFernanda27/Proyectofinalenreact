@@ -1,0 +1,155 @@
+.fondoform{
+	background-image: url(../../assets/img/fondocontacto2.jpg);
+}
+#titulocontacto{
+	padding-bottom: 8px;
+	padding-top: 20px;
+	font-family: 'ZCOOL XiaoWei';
+	text-align: center;
+}
+#frmvalidacion2{
+max-width: 500px;
+width: 100%;
+margin: auto;
+background-color: rgb(255, 169, 180,0.5);
+margin: 0 auto;
+box-shadow: 2px 0px 2px 0px #4F4D4D;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.form{
+max-width: 500px;
+width: 100%;
+margin: auto;
+text-align: center;
+}
+
+#campoape{
+	margin-top: 20px;
+}
+#campoemail{
+	margin-top: 20px;
+}
+
+#camponum{
+	margin-top: 20px;
+}
+#campotext{
+	margin-top: 20px;
+}
+label{
+  padding-right: 20px;
+  font-family: 'ZCOOL XiaoWei';
+}
+
+#nombre{
+	
+	border: 2px solid #FF5959;
+	border-radius: 5px;
+	width: 300px;
+	font-family: 'ZCOOL XiaoWei';	
+}
+
+#apellido{
+	border: 2px solid #FF5959;
+	border-radius: 5px;
+	width: 300px;
+	font-family: 'ZCOOL XiaoWei';
+	
+}
+
+#lastname{
+	border-bottom:  2px solid #FF5959;
+	width: 195px;
+	margin-left: 45px;
+	font-family: 'ZCOOL XiaoWei';
+}
+
+#correo{
+	border: 2px solid #FF5959;
+	border-radius: 5px;
+	width: 300px;
+	font-family: 'ZCOOL XiaoWei';
+	
+}
+#numero{
+	border: 2px solid #FF5959;
+	border-radius: 5px;
+	width: 300px;
+	font-family: 'ZCOOL XiaoWei';
+	
+}
+
+textarea{
+border: 2px solid #FF5959;
+border-radius: 5px;
+font-family: 'ZCOOL XiaoWei';
+padding-top: 10px;
+padding-left: 10px;
+}
+textarea:focus{
+	outline: none;
+}
+.boton-contacto{
+	width: 100px;
+	height: 35px;
+	background-color: #FF5959;
+	color: black;
+	border-radius: 5px;
+	text-align:center;
+	padding: 2px;
+	font-family: 'ZCOOL XiaoWei';
+	margin-bottom: 30px;
+	margin-top: 20px;
+
+}
+
+.boton-contacto a{
+	text-decoration: none;
+	color: black;
+	text-align:  center; 
+	font-weight: bold;
+
+}
+
+.boton-contacto a:hover{
+	color: black;
+	background-color: white;
+}
+
+.boton-contacto:hover{
+	border: 4px solid #FF5959;
+	background-color: white;
+
+}
+
+.mapa {
+	max-width: 1000px;
+	width: 100%;
+	margin: auto;
+	background-color: #FFDCDC;
+	min-height: 300px;
+	display: flex;
+	justify-content: space-between;
+}
+.mapa iframe{
+	border-radius:100%;
+	border: 4px solid #D7364B;
+	margin: 50px;
+	display: flex;
+}
+
+.inf{
+	display: inline-block;
+    font-family: 'ZCOOL XiaoWei';
+}
+
+.inf h2{
+	font-weight: bold;
+	margin-top: 70px;
+	margin-right: 280px;
+}
+

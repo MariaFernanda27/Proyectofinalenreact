@@ -1,0 +1,102 @@
+.modal-body{
+  width: 100%;
+    font-family: 'ZCOOL XiaoWei';
+}
+#precio{
+  text-align: center;
+  display: table;
+  padding-bottom: 10px;
+}
+
+#submodal {
+  padding-left: 20px;
+  padding-top: 30px;
+  display: table;
+}
+#submodal p{
+  padding-top: 5px;
+  padding-right: 60px;
+  padding-left: 60px;
+  margin: 0 auto;
+  text-align: justify;
+  vertical-align: middle;
+}
+.modal-title{
+   font-weight: bold;
+   text-align: center;
+   border-bottom: 2px solid #F15B6F;
+}
+.carrito{
+  width: 340px;
+  height: 50px;
+  background-color: #F15B6F;
+  border-radius: 5px;
+  border-color: #F15B6F;
+  margin: 0 auto;
+  display: table;
+}
+.carrito i{
+  padding-right: 10px;
+}
+
+.carrito:hover{
+  border: 4px solid #F15B6F;
+  background-color: white;
+}
+#close{
+	padding-left: 750px;
+}
+.rosescupcake img{
+  width:400px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.cuplove img{
+  width:300px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.cuphappy img{
+  width:400px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.minidulce img{
+  width:380px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.gelatina img{
+  width:350px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.piizabrownie img{
+  width: 320px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.redvelvetcake img{
+  width: 340px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.happy img{
+  width: 400px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}
+.carrot img{
+  width: 370px; 
+  height:300px;
+  margin: 0 auto;
+   display: table;
+}

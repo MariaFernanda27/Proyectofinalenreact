@@ -1,0 +1,41 @@
+.img404{
+   margin: 0 auto;
+}
+.imagenerror{
+	max-width: 1000px;
+	width: 100%;
+}
+.boton-volver{
+	width: 280px;
+	height: 50px;
+	background-color: #F15B6F;
+	color: black;
+	border-radius: 5px;
+	text-align:center;
+	padding: 2px;
+	font-family: 'ZCOOL XiaoWei';
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.boton-volver i{
+	padding-right: 10px;
+}
+
+.boton-volver a{
+	text-decoration: none;
+	color: black;
+	text-align:  center; 
+	font-weight: bold;
+
+}
+
+.boton-volver a:hover{
+	color: black;
+	background-color: white;
+}
+
+.boton-volver:hover{
+	border: 4px solid #F15B6F;
+	background-color: #ffffff;
+
+}
