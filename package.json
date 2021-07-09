@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepages": "http://MariaFernanda27.github.io/Proyectofinalenreact",
+  "homepage": "http://MariaFernanda27.github.io/Proyectofinalenreact",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
